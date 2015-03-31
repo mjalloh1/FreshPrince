@@ -1,0 +1,14 @@
+h1 {
+	color: red;
+	font-family: cursive;
+	font-size: 40px;
+	font-weight: bolder;
+}
+body {
+	background: beige;
+}
+p {	
+	font-family: cursive;
+	font-size: 14px;
+	font-weight: bold;
+}
